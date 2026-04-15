@@ -129,3 +129,6 @@ pix2pix単体では困難であった中間フレーム生成に対し、
 オプティカルフローを組み合わせることで改善が見られた。
 
 本手法は、アニメーション制作の効率化に寄与する可能性がある。
+
+本内容の論文はGeneration of In-between Images in 2D Animation
+by Pix2pix using Optical Flow.pdfに記載
